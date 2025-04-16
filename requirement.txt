@@ -1,0 +1,3 @@
+This folder holds the raw data files (`store.csv`, `train.csv`).
+
+These are not uploaded to GitHub. Please refer to course material or data source to obtain them.
